@@ -1,0 +1,13 @@
+# 依赖与构建产物（本项目为单文件提交，通常不需要）
+node_modules/
+dist/
+*.zip
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 日志
+*.log
